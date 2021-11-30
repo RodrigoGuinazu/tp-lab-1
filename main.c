@@ -1025,12 +1025,12 @@ void yellow() {
 }
 
 void menu(){
+    system("cls");
     char control = 's';
     int option, option1, option2;
     usuario currentUser;
 
     while(control == 's'){
-        green();
         printf("\nBIENVENIDO A PRIME VIDEO\n");
         printf("-----------------------------------------\n\n");
         printf("Ingrese una opcion\n\n");
