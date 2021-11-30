@@ -2,7 +2,7 @@
 
 For this project I used what I learned throught my course in Programming and Lab I at UTN
 - Arrays
-- Strucures
+- Structures
 - Edit/Create files
 
 This program is replicating some features of an online streaming service
